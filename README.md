@@ -268,11 +268,28 @@ ROCK is distributed under the Apache License (Version 2.0). This product contain
 
 ## 🙏 Acknowledgements
 
-ROCK is developed by Alibaba Group. The rocklet component of our project is mainly based on SWE-ReX, with significant modifications and enhancements for our specific use cases.
+ROCK is developed by Alibaba Group. The rocklet component of our project is mainly based on SWE-ReX, with significant modifications and enhancements for our specific use cases. And we deeply appreciate the inspiration we have gained from the GEM project.
 
 Special thanks to:
 
 * [SWE-agent/SWE-ReX](https://github.com/SWE-agent/SWE-ReX)
+* [axon-rl/gem](https://github.com/axon-rl/gem)
+
+---
+
+## 🤝 About [ROCK & ROLL Team]
+ROCK is a project jointly developed by Taotian Future Life Lab and Alibaba AI Engine Team, with a strong emphasis on pioneering the future of Reinforcement Learning (RL). Our mission is to explore and shape innovative forms of future living powered by advanced RL technologies. If you are passionate about the future of RL and want to be part of its evolution, we warmly welcome you to join us! 
+
+For more information about **ROLL**, please visit:
+- [Official Documentation](https://alibaba.github.io/ROLL/)
+- [GitHub Repository](https://github.com/alibaba/ROLL)
+
+Learn more about the ROCK & ROLL Team through our official channels below👇
+
+<a href="./assets/rock_wechat.png" target="_blank">
+  <img src="https://img.shields.io/badge/WeChat-green?logo=wechat" alt="WeChat QR">
+</a>
+
 
 ---
 
