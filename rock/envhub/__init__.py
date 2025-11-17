@@ -1,5 +1,5 @@
 from .api.schemas import DeleteEnvRequest, EnvInfo, GetEnvRequest, ListEnvsRequest, RegisterRequest
-from .core.envhub import DockerEnvHub, EnvHub
+from .core import DockerEnvHub, EnvHub
 
 __all__ = [
     "DockerEnvHub",
